@@ -293,8 +293,8 @@ en:
     search:
       start: Start searching...
   landing:
-    about: "%{href} is a simple front-end for your trabo open-source web conferencing server. You can create your own rooms to host sessions, or join others using a short and convenient link."
-    welcome: Welcome to trabo.
+    about: "Tool enables you to share your slides, video, and desktop with attendees.  Built-in polling, group and private chatting makes it easy to engage attendees and recording your lectures means that you can make them available for later review"
+    welcome: trabo video conferencing tool built for schools colleges and corporates.
     video: Watch our tutorial on using trabo
     upgrade: Show me how to upgrade to 2.0!
     version: We've released a new version of trabo, but your database isn't compatible.
